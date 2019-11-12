@@ -3,7 +3,7 @@ A loose repository of my smaller works. Will update files here shortly!
 
 # Other works:
 
-<a href="https://github.com/Scimoose/cerebro-ncbi-plugin">NCBI plugin</a>, which searches the NCBI database, with help of <a href="https://github.com/KELiON/cerebro">Cerebro</a>, a search app which browses through the internet and your computer for anything you might want to search. (sadly, discontinued)
+<a href="https://github.com/Scimoose/cerebro-ncbi-plugin">NCBI plugin</a>, which searches the NCBI database, with help of <a href="https://github.com/KELiON/cerebro">Cerebro</a>, a search app which browses through the internet and your computer for anything you might want to search. (sadly, Cerebro is no longer continued)
 
 <a href="https://github.com/Scimoose/sciencefair">ScienceFair</a>, which is an abandoned project of mine due to concerns of legality (scraping google). The front end part is more or less done, back end was supposed to be using BeautifulSoup4 library. 
 
