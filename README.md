@@ -2,9 +2,10 @@
 A loose repository of my smaller works. Will update files here shortly!
 
 Right now you can find here:
-* the python code from Machine Learning A-Z course by Kirill Eremenko and Hadelin de Ponteves
-* some small scripts from my free time on the trip for the iGEM contest in Boston
-* as well as a little script using BeautifulSoup4 which pulls 3 most accurate search results from the NCBI website
+* the python code from Machine Learning A-Z course by Kirill Eremenko and Hadelin de Ponteves,
+* little machine learning self made projects, some of them might be better explained on my <a href="https://www.kaggle.com/scimoose/kernels">kaggle profile</a>,
+* some small scripts from my free time on the trip to the iGEM contest in Boston,
+* as well as a little script using BeautifulSoup4 which pulls 3 most accurate search results from the NCBI website.
 
 # Other works:
 
