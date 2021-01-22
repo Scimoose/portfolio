@@ -15,6 +15,7 @@ class Person:
         self.magic = magic
         self.skill = skill
         self.actions = ["Attack", "Magic", "Skills"]
+    
 
     def generate_dmg(self):
         return random.randrange(self.atklow, self.atkhigh)
@@ -80,14 +81,14 @@ class Person:
 
     def choose_magic(self):
         i = 1
-        print("Your spells:")
+        print("\nYour spells:")
         for spells in self.magic:
             print(str(i) + ":", spells["name"], "(cost:", str(spells["cost"]), ")")
             i += 1
 
     def choose_skills(self):
         i = 1
-        print("Your skills:")
+        print("\nYour skills:")
         for skills in self.skill:
             print(str(i) + ":", skills["name"], "(cost:", str(skills["cost"]), ")")
             i += 1
