@@ -1,0 +1,182 @@
+body {
+  padding-top: 55px;
+  background-color: rgba(71,187,235,1);
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+/* responsywność loga */
+@media (max-width: 992px) {
+  img{
+    max-width: 40%;
+    height:auto;
+  }
+  p{
+    text-align: left;
+    font-size: 1.2em;
+    margin-bottom: 1.5em;
+    padding-bottom: 1em;
+    background-color: #128DC3;
+    padding: 10px 10px 10px 10px;
+    border-radius: 16px;
+    box-shadow: hsla(198, 83%, 42%, 0.9) 0px 4px 80px 0px;
+  }
+}
+@media (min-width: 992px) {
+  img{
+    max-width: 100%;
+    height:auto;
+  }
+}
+#logopic{
+  box-shadow: 3px 3px 15px 5px rgba(0,0,0,0.35);
+}
+nav{
+  font-family: 'Quicksand', sans-serif;
+}
+/* Header */
+header{
+  font-family: 'Exo 2', sans-serif;
+}
+.jumbotron{
+  background: linear-gradient(270deg, #128dc3, #0c709f, #416cc5);
+  background-size: 600% 600%;
+  color:white;
+
+  animation: rainbow 10s infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    background-position:0% 50%;
+  }
+  50% {
+    background-position:100% 50%;
+  }
+  100% {
+    background-position:0% 50%;
+  }
+}
+
+}
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* hover effect  */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Kolory ikonek */
+
+/* Facebook */
+.fa-facebook {
+  color: white;
+  margin-left: 0.5em;
+}
+
+/* Twitter */
+.fa-instagram {
+  color: purple;
+  margin-left: 0.5em;
+}
+/*zmieniający się tekst to do*/
+
+/* Pozostale sekcje */
+h1{
+  font-size: 1.75em;
+}
+h4{
+  margin-bottom: 1em;
+}
+h5{
+  padding-bottom: 1em;
+}
+p{
+  font-size: 1.2em;
+  margin-bottom: 1.5em;
+  padding-bottom: 1em;
+  background-color: #128DC3;
+  padding: 10px 10px 10px 10px;
+  border-radius: 16px;
+  box-shadow: hsla(198, 83%, 42%, 0.9) 0px 4px 80px 0px;
+}
+section{
+  min-height: 500px;
+}
+.cntnt{
+  background-color:
+}
+.linki{
+  color:rgba(255,255,255,0.7);
+}
+#art{
+  margin-top: 5em;
+  margin-bottom: 3em;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+}
+#arttwo{
+  margin-top: 5em;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+}
+#mapy{
+  margin-bottom: 100px;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    margin-top: 2em;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+.table{
+  margin-top: 30px;
+  margin-bottom: 40px;
+  box-shadow: 3px 3px 15px 5px rgba(0,0,0,0.35);
+}
+#faq{
+  margin-bottom: 200px;
+}
+#faq-napis{
+  margin-bottom: 20px;
+  padding: 10px 10px 10px 10px;
+  background-color: rgba(0,0,0,0.7);
+}
+.pytanie{
+  margin-top: 1em;
+  background-color: #128DC3;
+  padding: 10px 10px 10px 10px;
+  border-radius: 16px;
+  box-shadow: hsla(198, 83%, 42%, 0.9) 0px 4px 80px 0px;
+
+}
+.skn-content{
+  display: flex;
+  margin-bottom: 3em;
+}
+#skn-one{
+  flex-grow: 2;
+  margin: auto;
+}
+#skn-two{
+  flex-grow: 7;
+  margin: auto;
+  text-align: left;
+}
