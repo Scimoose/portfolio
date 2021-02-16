@@ -10,6 +10,7 @@ If you only had 10 minutes to check my portfolio, which projects would I recomme
 - **bioinformatics armory** - found in the streamlit folder, it is an interactive tool made using streamlit library which helps the user translate DNA to RNA/protein sequence, locate domains, and much more. All the user has to do is drop .txt file
 - **logistic map visualiser** - found again in the streamlit folder, it is an interactive tool that visualises (plots in real time) how the logistic map equation changes given different parameters
 - **conference website** I made for a biotech conference held in my university (Wrocław University of Environmental and Life Sciences) named **"Krok w Przyszłość"** ("A step into the future") <a href="https://www.facebook.com/Og%C3%B3lnopolska-Konferencja-Biotechnologiczna-Krok-w-przysz%C5%82o%C5%9B%C4%87-2081177618632303/">More here!</a>
+- <a href="https://github.com/Scimoose/text-capture">**text-capture** </a> app, which captures text from picture using open source library for Ocular Recognition (OCR) - tesseract and translates text to polish (you can change target language in the code)
 
 ## About me
 
@@ -19,9 +20,10 @@ Apart from python I also know some javascript, web dev, and C#; I might feature 
 
 My life goal is to somehow mix programming with biotech, either by doing bioinformatics, or by making non-work related projects. As far as I am doing that either privately or in work, I will be content.
 
-# Other works:
+## Other works:
 - cryptography folder holds famous Caesars cipher encoding, and the NATO alphabet encoding; with more projects coming in the next months
 - rpg game is a plain-text-in-the-console game, but with rich library visualisation to spice things up
+- in the **pomodoro** folder is a pomodoro app I made following Angela Yu's 100 days of Python with nicer (in my humble opinion) layout and different timing (45 min, 15 min break)
 - scripts folder contains well… scripts I am content or proud of; I plan to either retire some of them in the future, or find a more creative way of displaying them in coming projects
 
 Thanks for making it through the portfolio - if it is interesting enough to contact me, here is my contact e-mail - <i>patryksurmacz@gmail.com</i>
@@ -31,7 +33,12 @@ I'm open for:
 - python data science projects :heavy_check_mark:
 - constructing ML models together! :heavy_check_mark: :fire:
 
-Some projects, which functionality was lost to time:
+## Courses I followed:
+- 100 Days of Code - The Complete Python Pro Bootcamp for 2021 by *Angela Yu* on Udemy - still doing it to update/upgrade my python skills
+- Machine Learning A-Z in Python, by Kirill Eremenko and Hadelin de Ponteves
+- Deep Learning A-Z in Python, again by Kirill Eremenko and Hadelin de Ponteves
+
+### Some projects, which functionality was lost to time:
 
 <a href="https://github.com/Scimoose/cerebro-ncbi-plugin">NCBI plugin</a>, which searches the NCBI database, with help of <a href="https://github.com/KELiON/cerebro">Cerebro</a>, a search app which browses through the internet and your computer for anything you might want to search. (sadly, Cerebro is no longer continued)
 
