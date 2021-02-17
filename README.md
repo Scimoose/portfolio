@@ -26,14 +26,15 @@ My life goal is to somehow mix programming with biotech, either by doing bioinfo
 - in the **pomodoro** folder is a pomodoro app I made following Angela Yu's 100 days of Python with nicer (in my humble opinion) layout and different timing (45 min, 15 min break)
 - scripts folder contains well… scripts I am content or proud of; I plan to either retire some of them in the future, or find a more creative way of displaying them in coming projects
 
-Thanks for making it through the portfolio - if it is interesting enough to contact me, here is my contact e-mail - <i>patryksurmacz@gmail.com</i>
+## Contact info
+Thanks for making it through the portfolio - if it is interesting enough to contact me, here is my contact e-mail - <i>patryksurmacz@gmail.com</i> and <a href="https://www.linkedin.com/in/patryk-surmacz-011482181/">LinkedIn </a>
 
 I'm open for:
 - job offers :heavy_check_mark:
 - python data science projects :heavy_check_mark:
 - constructing ML models together! :heavy_check_mark: :fire:
 
-## Courses I followed:
+### Courses I followed:
 - 100 Days of Code - The Complete Python Pro Bootcamp for 2021 by *Angela Yu* on Udemy - still doing it to update/upgrade my python skills
 - Machine Learning A-Z in Python, by Kirill Eremenko and Hadelin de Ponteves
 - Deep Learning A-Z in Python, again by Kirill Eremenko and Hadelin de Ponteves
