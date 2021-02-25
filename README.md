@@ -9,7 +9,7 @@ The purpose of those changes was to make room for other projects, which are yet 
 If you only had 10 minutes to check my portfolio, which projects would I recommend? 
 - **bioinformatics armory** - found in the streamlit folder, it is an interactive tool made using streamlit library which helps the user translate DNA to RNA/protein sequence, locate domains, and much more. All the user has to do is drop .txt file
 - **logistic map visualiser** - found again in the streamlit folder, it is an interactive tool that visualises (plots in real time) how the logistic map equation changes given different parameters
-- **conference website** I made for a biotech conference held in my university (Wrocław University of Environmental and Life Sciences) named **"Krok w Przyszłość"** ("A step into the future") <a href="https://www.facebook.com/Og%C3%B3lnopolska-Konferencja-Biotechnologiczna-Krok-w-przysz%C5%82o%C5%9B%C4%87-2081177618632303/">More here!</a>
+- **conference website** I made for a biotech conference held in my university (Wrocław University of Environmental and Life Sciences) named **"Krok w Przyszłość"** ("A step into the future") <a href="https://www.facebook.com/Og%C3%B3lnopolska-Konferencja-Biotechnologiczna-Krok-w-przysz%C5%82o%C5%9B%C4%87-2081177618632303/">More here!</a>. There's also recently created <i>Flask version</i> <a href="https://github.com/Scimoose/flask-website"> here</a>
 - <a href="https://github.com/Scimoose/text-capture">**text-capture** </a> app, which captures text from picture using open source library for Ocular Recognition (OCR) - tesseract and translates text to polish (you can change target language in the code)
 
 ## About me
